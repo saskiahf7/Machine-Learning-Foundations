@@ -1,7 +1,7 @@
 # Machine Learning Foundations
 
 🌐 **Akses Website Live Demo:**  
-https://saskiahf7.github.io/machine-learning-foundations/
+https://saskiahf7.github.io/Machine-Learning-Foundations/
 
 ---
 
